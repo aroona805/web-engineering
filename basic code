@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<body bgcolor="PINK" background="download.jfif" text="bLACK">
+    <ul type="square">
+        <li>punjab</li>
+        <li>kpk</li>
+        <li>Balochistan</li>
+        <li>sindh</li>
+    </ul>
+    <ol type="1" start="4">
+        <li>punjab</li>
+        <li>kpk</li>
+        <li>Balochistan</li>
+        <li>sindh</li>
+    </ol>
+    <dl>
+        <dt>AROONA</dt>
+        <dd>AROONA</dd>
+    </dl>
+
+<h1>My first Heading</h1>
+<h2>My First Heading</h2>
+<h3>MY first Heading</h3>
+<h4>My first Heading</h4>
+<h5>My first Heading</h5>
+<H6>My first heading</H6>
+<p>They include kindness (to people and animals), charity, forgiveness, honesty, patience, justice, <br>respecting parents and elders, keeping promises,and controlling one's anger. Islam also commands love—love of God and those God loves, <br> love of his messenger (Muhammad) and of believers.</p>
+<a href="www.google.com/">google</a>
+<font fontface="COMICSAN MS"SIZE=6 COLOR=RED>WELCOME</font>
+<img src="tree-736885__480.jpg"width="104" height="142">
+<hr color="RED" size="4" width="20%"
+</body>
+</html>
